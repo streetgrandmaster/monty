@@ -29,6 +29,52 @@ C - Stacks, Queues - LIFO, FIFO
 
 > The opcode nop doesn’t do anything.
 
+6. __sub:__ Implement the sub opcode.
+
+> The opcode sub subtracts the top element of the stack from the second top element of the stack.
+
+7. __div:__ Implement the div opcode.
+
+> The opcode div divides the second top element of the stack by the top element of the stack.
+
+8. __mul:__ Implement the mul opcode.
+
+> The opcode mul multiplies the second top element of the stack with the top element of the stack.
+
+9. __mod:__ Implement the mod opcode.
+
+> The opcode mod computes the rest of the division of the second top element of the stack by the top element of the stack.
+
+10. __comments:__ Every good language comes with the capability of commenting. When the first non-space character of a line is #, treat this line as a comment (don’t do anything).
+
+11. __pchar:__ Implement the pchar opcode.
+
+> The opcode pchar prints the char at the top of the stack, followed by a new line.
+
+12. __pstr:__ Implement the pstr opcode.
+
+>The opcode pstr prints the string starting at the top of the stack, followed by a new line.
+
+13. __rotl:__ Implement the rotl opcode.
+
+> The opcode rotl rotates the stack to the top.
+
+14. __rotr:__ Implement the rotr opcode.
+
+> The opcode rotr rotates the stack to the bottom.
+
+15. __stack, queue:__ Implement the stack and queue opcodes.
+
+> The opcode stack sets the format of the data to a stack (LIFO). This is the default behavior of the program.
+
+16. __Brainf*ck:__ Write a Brainf *ck script that prints School, followed by a new line.
+
+17. __Add two digits:__ Add two digits given by the user.
+
+18. __Multiplication:__ Multiply two digits given by the user.
+
+19. __Multiplication level up:__ Multiply two digits given by the user.
+
 ## Author(s) Info
 
 Name 👨🏽‍💻: __Lawrence OTIENO__
