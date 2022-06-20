@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+.vscosde
 
 # Object files
 *.o
